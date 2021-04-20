@@ -4,3 +4,11 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/Davy Bayet/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/Davy Bayet/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/DavyBayet/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users//Davy Bayet//Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/Davy Bayet/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/"Davy Bayet"/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/DavyBayet/Downloads/decent-destiny-311214-af45277f7e8e.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/Davy_Bayet/Downloads/decent-destiny-311214-af45277f7e8e.json
